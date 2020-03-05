@@ -1,0 +1,12 @@
+package Examples;
+
+public class printf {
+
+	public static void main(String[] args) {
+		System.out.print("hello");
+		System.out.println("wolrd");
+		System.out.println("\nhello");
+		System.out.print("wolrd");
+	}
+
+}

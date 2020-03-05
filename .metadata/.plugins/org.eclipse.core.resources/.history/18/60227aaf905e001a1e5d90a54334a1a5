@@ -1,0 +1,11 @@
+package Examples;
+
+import java.util.Scanner;
+
+public class ASCII_EUCKR_UTF8_MS949 {
+	public static void main(String[] args) {
+		System.out.println((int) 'X');
+		System.out.println((char) 97);
+		
+	}
+}

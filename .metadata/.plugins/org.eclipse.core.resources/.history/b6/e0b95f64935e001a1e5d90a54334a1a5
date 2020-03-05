@@ -1,0 +1,15 @@
+package Examples;
+
+public class printf {
+
+	public static void main(String[] args) {
+		System.out.print("hello");
+		System.out.println("wolrd");
+		System.out.println("\nhello");
+		System.out.print("wolrd");
+		
+		String st1 = "I",st2 = "am", st3 = "a", st4 = "boy";
+		System.out.println(st1 + "\n" + st2+st3+st4);
+	}
+
+}
